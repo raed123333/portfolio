@@ -11,8 +11,8 @@ const Hero = () => {
                 <span  className='text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'> 
                         JABRI Raed 
                 </span>
-                ,Full-Stack Developer & Designer <br /> 
-                ,Content Creator in LinKedin and You tube
+                ,Full-Stack Developer & Designer, <br /> 
+                Content Creator in LinKedin and You tube
 
         </h1>
         <p className='mt-4 text-lg text-gray-300'>
