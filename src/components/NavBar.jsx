@@ -10,7 +10,7 @@ const NavBar = () => {
                         <a href="#home" className='hover:text-gray-400 '>Home</a>
                         <a href="#aboutMe" className='hover:text-gray-400 '>About Me</a>
                         <a href="#services" className='hover:text-gray-400 '>Services</a>
-                        <a href="#projects" className='hover:text-gray-400 '>Projects</a>
+                        <a href="#projects" className='hover:text-gray-400 '>Experiences</a>
                         <a href="#contact" className='hover:text-gray-400 '>Contact</a>
                 </div>
                 <button className='bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline
