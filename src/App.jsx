@@ -8,6 +8,7 @@ import About from './components/About'
 import Services from './components/Services'
 import Proje from './components/Proje'
 import Contact from './components/Contact'
+import Footer from './components/Footer'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -20,6 +21,7 @@ function App() {
     <Services/>
     <Proje/>
     <Contact/>
+    <Footer/>
     </>
   )
 }
